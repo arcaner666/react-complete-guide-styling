@@ -37,7 +37,6 @@ const App = () => {
 
   return (
     <div>
-      <label className="form-control invalid">fafwafafafw</label>
       <section id="goal-form">
         <CourseInput onAddGoal={addGoalHandler} />
       </section>
